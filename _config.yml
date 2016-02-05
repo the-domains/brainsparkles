@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.851374
+  lightness: 0.247747
+  rhythmicContrast: 0.79054
+  saturation: 0.772522
+cta: {}
+layout_spectrum: 0.6171795930077981
+name: BrainSparkles
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.082207
